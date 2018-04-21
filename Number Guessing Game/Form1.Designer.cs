@@ -1,4 +1,6 @@
-﻿namespace Number_Guessing_Game
+﻿
+
+namespace Number_Guessing_Game
 {
     partial class Form1
     {

@@ -1,4 +1,9 @@
-﻿using System;
+﻿//  Scottie Sterling
+//  4/20/2018
+//  Number Guessing Game
+
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
